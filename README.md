@@ -12,7 +12,7 @@ Para la creacion de las bibliotecas utilizamos los siguientes comados:
       
 2. Creacion de los archivos ".o" mediante los siguientes comandos: 
 
-     g++ .\src\arreglo_normal.cc -c -o .\obj\arreglo_normal.o -fPIC \n
+     g++ .\src\arreglo_normal.cc -c -o .\obj\arreglo_normal.o -fPIC
      g++ .\src\arreglo_aleatorio.cc -c -o .\obj\arreglo_aleatorio.o -fPIC
      g++ .\src\media.cc -c -o .\obj\media.o -fPIC
      g++ .\src\mediana.cc -c -o .\obj\mediana.o -fPIC
