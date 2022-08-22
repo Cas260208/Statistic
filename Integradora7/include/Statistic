@@ -1,0 +1,44 @@
+#if !defined(Statistic)
+#define Statistic
+
+/**
+ * @brief Rellena un numero con numeros aleatorios entre el 1 al 6
+ * @param n Es el numero de elementos a almacenar de tipo enteros. 
+ * @param ar[] Arreglo de enteros
+ */
+void rellena_arreglo_aleatorio(int n, int ar[]);
+
+/**
+ * @brief Rellena un arreglo con numeros normalmente distribuidos
+ * @param mu el promedio de la distribucion normal
+ * @param st_dev desviacion estandar de la distribucion normal 
+ * @param n Es el numero de elementos a almacenar de tipo enteros. 
+ * @param ar[] Arreglo de enteros
+ */
+void rellena_arreglo_normal(int mu, int st_dev, int n, int ar[]);
+
+/** 
+ * @brief Calcula la media de un conjunto de numeros
+ * @param n Numero de elementos del arreglo
+ * @param ar[] Arreglo
+ * @returns media
+ */
+int media(int n, int ar[]);
+
+/**
+ * @brief Calcula la mediana de un conjunto de numeros
+ * @param n Numero de elementos del arreglo
+ * @param ar[] -Arreglo
+ * @returns mediana
+ */
+int mediana(int n, int ar[]);
+
+/** 
+ * @brief Calcula la moda de un conjunto de numeros
+ * @param n Numero de elementos del arreglo 
+ * @param ar[] -Arreglo
+ * @returns moda
+ */
+int moda(int n, int ar[]);
+
+#endif
