@@ -39,3 +39,11 @@ Para la creacion de las bibliotecas utilizamos los siguientes comados:
 
 @JessicaLaraC
 @BrendaAbigailVC
+
+
+
+
+Integrantes del equipo: 
+Brenda Abigail Valdes Crisanto
+Jessica Lara Cruz
+Casandra Zetina Rodriguez 
