@@ -21,11 +21,8 @@ Para la creacion de las bibliotecas utilizamos los siguientes comados:
 3. Creacion de la biblioteca dinamica: 
 
     Para la creacion de la biblioteca dinamica utilizamos lo archivos ".o", asi mismo ejecutamos con el siguiente comando: 
-       
-       - g++ -shared .\obj\* -o .\lib\dll\Statistic.dll 
-        
-    Despúes copiamos el archivo "Statistic.dll" y lo icorporamos a la carpeta "System32", para al momento de crear un archivo         
-      
+      - g++ -shared .\obj\* -o .\lib\dll\Statistic.dll 
+    Despúes copiamos el archivo "Statistic.dll" y lo icorporamos a la carpeta "System32", para al momento de crear un archivo  
       - ".txt" leyera la biblioteca.
     
 4. Creacion de la biblioteca estatica: 
