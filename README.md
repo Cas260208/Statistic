@@ -17,7 +17,7 @@ Para la creacion de las bibliotecas utilizamos los siguientes comados:
      g++ .\src\media.cc -c -o .\obj\media.o -fPIC
      g++ .\src\mediana.cc -c -o .\obj\mediana.o -fPIC
      g++ .\src\moda.cc -c -o .\obj\moda.o -fPIC
-     
+     n
 3. Creacion de la biblioteca dinamica: 
 
     Para la creacion de la biblioteca dinamica utilizamos lo archivos ".o", asi mismo ejecutamos con el siguiente comando: 
