@@ -25,7 +25,7 @@ Para la creacion de las bibliotecas utilizamos los siguientes comados:
     
         - g++ -shared .\obj\* -o .\lib\dll\Statistic.dll 
        
-    Despúes copiamos el archivo "Statistic.dll" y lo icorporamos a la carpeta "System32", para al momento de crear un archivo  
+    Despúes copiamos el archivo "Statistic.dll" y lo incorporamos a la carpeta "System32", para al momento de crear un archivo  
     
         - ".txt" leyera la biblioteca.
     
@@ -40,8 +40,6 @@ Para la creacion de las bibliotecas utilizamos los siguientes comados:
 
 @JessicaLaraC
 @BrendaAbigailVC
-
-
 
 
 Integrantes del equipo: 
