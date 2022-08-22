@@ -2,6 +2,7 @@
 La biblioteca con nombre "Statistic" tiene la funcion de realizar tres tipos de formulas de estadistica como lo es: la media, mediana y moda; apoyandose con arreglos de valores tipo entero. 
 
 Carpetas: 
+
 ![image](https://user-images.githubusercontent.com/109366932/185821009-fc0cfd85-b834-408d-8766-497fe2b89016.png)
 
 Para la creacion de las bibliotecas utilizamos los siguientes comados: 
@@ -44,6 +45,7 @@ Para la creacion de las bibliotecas utilizamos los siguientes comados:
 
 
 Integrantes del equipo: 
+
 Brenda Abigail Valdes Crisanto
 
 Jessica Lara Cruz
