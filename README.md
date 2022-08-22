@@ -35,3 +35,7 @@ Para la creacion de las bibliotecas utilizamos los siguientes comados:
         - ar crs .\lib\static\Statistic.lib .\obj\*.o
     
 
+
+
+@JessicaLaraC
+@BrendaAbigailVC
