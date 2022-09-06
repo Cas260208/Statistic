@@ -45,8 +45,8 @@ Para la creacion de las bibliotecas utilizamos los siguientes comados:
 Integrantes del equipo: 
 A mis compañeras de equipo se les asiganra una calificacion, conforme a su rendimiento en el trabajo:
 
-Brenda Abigail Valdes Crisanto: Obtiene una calificacion de 10; ya que ayudo activamente a la elaboracion de la biblioteca. Al igual mando en tiempo y forma la parte del codigo que le correspondia. 
+Brenda Abigail Valdes Crisanto: Obtiene una calificacion de 10.0; ya que ayudo activamente a la elaboracion de la biblioteca. Al igual mando en tiempo y forma la parte del codigo que le correspondia. 
 
-Jessica Lara Cruz: Obtiene una calificacion de 10; ya que ayudo activamente a la elaboracion de la biblioteca y a la aclaracion de dudas con los integrantes del equipo. Al igual mando en tiempo y forma la parte del codigo que le correspondia.
+Jessica Lara Cruz: Obtiene una calificacion de 8.0; ya que ayudo activamente a la elaboracion de la biblioteca y a la aclaracion de dudas con los integrantes del equipo. Al igual mando en tiempo y forma la parte del codigo que le correspondia.
 
 Casandra Zetina Rodriguez 
